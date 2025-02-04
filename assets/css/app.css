@@ -84,7 +84,7 @@ img.watermark-logo {
 }
 @font-face {
 	font-family: 'CustomFont';
-	src: url('../fonts/Riau.ttf') format('truetype');
+	src: url('../fonts/Riau1.ttf') format('truetype');
 }
 .font-riau-with-shadow-white {
 	font-family: 'CustomFont', Times, serif;
