@@ -30,14 +30,7 @@ File: app.css
 
 
 /* General */
-.watermark {
-	position: fixed;
-	bottom: 50%;
-	right: 50%;
-	transform: translate(50%, 50%);
-	opacity: 0.3;
-	z-index: -1;
-}
+
 .back-btn {
 	position: fixed;
 	bottom: 60px;
@@ -78,10 +71,7 @@ File: app.css
 	background: linear-gradient(to left, rgb(76, 140, 223), transparent), url('https://png.pngtree.com/png-vector/20220921/ourmid/pngtree-batik-jambi-angso-duo-melayu-png-image_6209068.png');
  }	
 
-img.watermark-logo {
-	width: 200px;
-	/* Atur ukuran logo sesuai kebutuhan */
-}
+
 @font-face {
 	font-family: 'CustomFont';
 	src: url('../fonts/Riau1.ttf') format('truetype');
